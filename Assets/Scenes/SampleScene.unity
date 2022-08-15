@@ -154,6 +154,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   inteiros: 0000000001000000020000000300000005000000070000000b0000000d000000
   playerSave: []
+  Players: []
 --- !u!4 &367858411
 Transform:
   m_ObjectHideFlags: 0
@@ -376,11 +377,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7fe7efa69fbd23e4786de51ec2647087, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Name: 
-  Points: 0
-  Hp: 0
-  Level: 0
-  CharClass: 0
+  Name: Batman
+  Points: 102
+  Hp: 654321
+  Level: 100
+  CharClass: 5
 --- !u!4 &1178816448
 Transform:
   m_ObjectHideFlags: 0
